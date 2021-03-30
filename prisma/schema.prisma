@@ -10,6 +10,7 @@ generator client {
   provider = "prisma-client-js"
 }
 
+//스키마는 기본이 필수  ?는 선택 사항(없어도 된다)
 model Movie {
   id        Int      @id @default(autoincrement())
   title     String
