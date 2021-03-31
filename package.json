@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "nodemon --exec babel-node server",
+    "migratereset": "npx prisma migrate reset --preview-feature",
     "migrate": "npx prisma migrate dev --preview-feature",
     "studio": "npx prisma studio"
   },

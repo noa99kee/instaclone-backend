@@ -2,14 +2,8 @@ module.exports = {
   plugins: ['prettier'],
   extends: 'standard',
   rules: {
-    indent: [
-      'error',
-      2
-    ],
-    semi: [
-      'error',
-      'always'
-    ],
+    indent: ['error', 2],
+    semi: ['error', 'always'],
     'no-trailing-spaces': 0,
     'keyword-spacing': 0,
     'no-unused-vars': 1,
