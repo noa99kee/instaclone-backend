@@ -4,11 +4,11 @@ Instaclone Backend.
 
 ## User:
 
--[O] Create Account
+-[X] Create Account
 
--[ ] See Profile
+-[X] See Profile
 
--[ ] Login
+-[X] Login
 
 -[ ] Edit Profile
 
