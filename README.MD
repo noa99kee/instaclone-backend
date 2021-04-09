@@ -10,7 +10,7 @@ Instaclone Backend.
 
 -[X] Login
 
--[ ] Edit Profile
+-[X] Edit Profile
 
 -[ ] Follow User
 
